@@ -5,3 +5,6 @@ build/**
 windows/**
 linux/**
 macosx/**
+
+# For my lazy homies
+premake5.exe
